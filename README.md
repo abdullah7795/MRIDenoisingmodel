@@ -39,7 +39,7 @@ Windows: \
 open cmd/terminal in the repository. \
 run: python3 model_test.py 
 
-## 5.The Output Will Be Saved As output.tiff And output.tif
+## 5.The Output Will Be Saved As Denoised_Output_Image.tiff And Denoised_Output_Image.tif
 
 you can change the names in model_test.py file. 
 
