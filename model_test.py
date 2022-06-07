@@ -92,8 +92,8 @@ plt.show(block=True)
 for i in predictions2:
     im =i
     i = np.reshape(i, (400, 400))
-    imageio.imwrite('output.tif', im)
-    plt.imsave("output.tiff", i,cmap='gray')
+    imageio.imwrite('Denoised_Output_Image.tif', im)
+    plt.imsave("Denoised_Output_Image.tiff", i,cmap='gray')
     
     print(im.shape)
 
