@@ -25,7 +25,7 @@ download and run from [https://www.python.org/downloads/](https://www.python.org
 
 
 
-## Install Anaconda From The Link:
+## 3.Install Anaconda From The Link:
 
 Linux: \
 [https://docs.anaconda.com/anaconda/install/linux/](https://docs.anaconda.com/anaconda/install/linux/) 
@@ -34,12 +34,12 @@ Windows: \
 [https://docs.anaconda.com/anaconda/install/windows/](https://docs.anaconda.com/anaconda/install/windows/) 
 
 
-## Open Terminal In Repository:
+## 4.Open Terminal In Repository:
 
 open cmd/terminal in the repository. \
 run: python3 model_test.py 
 
-## The Output Will Be Saved As outfile5.tiff And outfile5.tif
+## 5.The Output Will Be Saved As outfile5.tiff And outfile5.tif
 
 you can change the names in model_test.py file. 
 
