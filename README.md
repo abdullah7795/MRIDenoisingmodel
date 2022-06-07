@@ -1,12 +1,14 @@
 # MRIDenoisingmodel
 
-This project was made with python and tensorflow. \
+This project was made with python and tensorflow. 
+
 
 ## 1.Download The Repository
 
 Type the command : \
 git clone https://github.com/abdullah7795/MRIDenoisingmodel.git \
-cd MRIDenoisingmodel \
+cd MRIDenoisingmodel 
+
 
 
 ## 2.Install Python3
