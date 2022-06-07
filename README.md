@@ -1,7 +1,6 @@
 # MRI Denoising Model
 
 Presenting a CNN-based algorithm with the help of encoders and decoders to estimate the original image by suppressing noise from a noise-contaminated version of the image and by applying our efficient algorithm to denoise the image with the highest SSIM and PSNR values with low processing time. We fetch our MRI datasets (around 7200 images) from Brainweb. The collected MRI datasets are segregated into datasets of original image, noisy image, and denoised image for the purpose of training and testing. Our CNN model is created with the help of encoders and decoders. The concept of maxpooling2D and convo2D layers is implied to create autoencoders and decoders. Where in the model, Relu and Sigmoid are implemented as activation functions and Adam is used as an optimizer for autoencoders. Finally, we capture the desired output value of PSNR, which is sufficient to denoise an image and excels over other existing models, and proceed to build an application to denoise medical images.
-https://mohammedsaif001.github.io/Medical-Image-Denoising/
 
 # To Run this Model on your Machine Please Follow the Steps given Below
 
