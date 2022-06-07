@@ -5,7 +5,7 @@ This project was made with python and tensorflow.\
 ## 1.download the repository
 
 Type the command :\
-git clone https://github.com/abdullah7795/MRIDenoisingmodel.git\
+git clone https://github.com/abdullah7795/MRIDenoisingmodel.git \
 cd MRIDenoisingmodel\
 
 
