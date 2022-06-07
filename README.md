@@ -2,14 +2,14 @@
 
 This project was made with python and tensorflow. \
 
-## 1.download the repository
+## 1.Download The Repository
 
 Type the command : \
 git clone https://github.com/abdullah7795/MRIDenoisingmodel.git \
 cd MRIDenoisingmodel \
 
 
-## 2.install python3
+## 2.Install Python3
 
 install python \
 Linux: \
@@ -23,7 +23,7 @@ download and run from [https://www.python.org/downloads/](https://www.python.org
 
 
 
-## install anaconda from the link:
+## Install Anaconda From The Link:
 
 Linux: \
 [https://docs.anaconda.com/anaconda/install/linux/](https://docs.anaconda.com/anaconda/install/linux/) \
@@ -32,12 +32,12 @@ Windows: \
 [https://docs.anaconda.com/anaconda/install/windows/](https://docs.anaconda.com/anaconda/install/windows/) \
 
 
-## open terminal in repository:
+## Open Terminal In Repository:
 
 open cmd/terminal in the repository. \
 run: python3 model_test.py \
 
-## the output will be saved as outfile5.tiff and outfile5.tif
+## The Output Will Be Saved As outfile5.tiff And outfile5.tif
 
 you can change the names in model_test.py file. \
 
@@ -45,4 +45,4 @@ you can change the names in model_test.py file. \
 
 
 
-#run:python model_test.py \
+### Run:  python model_test.py \
