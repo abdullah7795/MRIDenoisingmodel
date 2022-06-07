@@ -5,6 +5,8 @@ This project was made with python and tensorflow.
 # The Website With The Model Integrated Is Below:
 [https://mohammedsaif001.github.io/Medical-Image-Denoising/](https://mohammedsaif001.github.io/Medical-Image-Denoising/)
 
+# To Use/Integrate The Model In Your Code/Machine Use The Below Procedure :
+
 ## 1.Download The Repository
 
 Type the command : \
