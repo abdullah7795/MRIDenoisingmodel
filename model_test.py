@@ -46,7 +46,7 @@ autoencoder = new_model
 # In[12]:
 
 
-img =cv2.imread('Mnoiseimg.tiff',0)
+img =cv2.imread('input.tiff',0)
 
 np_img1 = np.array(img)
 print(np_img1.shape)
@@ -92,8 +92,8 @@ plt.show(block=True)
 for i in predictions2:
     im =i
     i = np.reshape(i, (400, 400))
-    imageio.imwrite('outfile5.tif', im)
-    plt.imsave("outfile5.tiff", i,cmap='gray')
+    imageio.imwrite('output.tif', im)
+    plt.imsave("output.tiff", i,cmap='gray')
     
     print(im.shape)
 
